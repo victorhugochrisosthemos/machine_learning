@@ -1,11 +1,15 @@
 # Arvores de decisão
 
+![image](https://github.com/user-attachments/assets/77fde1ec-54db-4935-88eb-ddc65f253e81)
+
+
 A aprendizagem por árvore de decisão baseia-se na construção de estruturas de decisão que levam<br>
 a outras estruturas decisão até chegar ao ponto de definir o atributo classe.<br>
 Nesse estudo que define quais das decisões será considerada como um nodo da árvore é criado através de dois<br>
 cálculos, são eles: cálculo de entropia e de ganho.<br>
 
-![image.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/150ec57d-9dba-43fd-9312-6bcfb7a44ab0/f0d52f04-08af-4d2e-ac17-45c6516479d4/image.png)
+![image](https://github.com/user-attachments/assets/647b0aab-0860-479d-8650-b8c5f89e4fb8)
+
 
 É preciso se preocupar com a possibilidade de overfitting.<br>
 Nesse tipo de aprendizado não precisa escalar os dados categóricos<br>
