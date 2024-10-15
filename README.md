@@ -8,5 +8,5 @@ classe. Nesse treinamento para conseguir predizer futuramente qual será a respo
 algoritmo de Machine Learning se baseia em dados previsores para definir sozinho qual será o atributo classe.<br>
 
 ## Técnicas estudadas
-- [Pré-Processamento de Dados](.https://github.com/victorhugochrisosthemos/pre_processamento_de_dados)
+- [Pré-Processamento de Dados](https://github.com/victorhugochrisosthemos/pre_processamento_de_dados)
 
