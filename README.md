@@ -10,4 +10,4 @@ algoritmo de Machine Learning se baseia em dados previsores para definir sozinho
 ## Técnicas estudadas
 - [Pré-Processamento de Dados](https://github.com/victorhugochrisosthemos/pre_processamento_de_dados)
 - [Algoritmo Naive Bayes](https://github.com/victorhugochrisosthemos/algoritmo_naive_bayes)
-
+- [Aprendizado por Árvore de decisão & Random Forest](https://github.com/victorhugochrisosthemos/machine_learning/tree/main/arvores_de_decisao)
