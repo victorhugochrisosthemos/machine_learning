@@ -5,7 +5,11 @@
 
 ![image](https://github.com/user-attachments/assets/25d880d6-b35d-42a2-9f08-df3e1f58040f)
 
-  
+## Algoritmo PRISM
+- Algoritmo de indução de regras modulares
+- Para criar uma regra utilizando o algoritmo PRISM, é levado em consideração a abrangência, ou seja, a quantidade de vezes que o atributo/valor aparece em relação ao atributo alvo
+
 ## Mais informações
 - https://www.saedsayad.com/oner.htm
+- https://lume.ufrgs.br/bitstream/handle/10183/2755/000325797.pdf
 
