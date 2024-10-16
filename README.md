@@ -1,6 +1,6 @@
 # Machine Learning
 
-![ia](https://github.com/user-attachments/assets/9ee565e0-4335-4641-b85e-b552c667ba12)
+![1694843206845](https://github.com/user-attachments/assets/fad4c277-fc21-428a-91c5-f4487868ea4a)
 
 
 A Inteligência Artificial é uma área da Ciência da Computação que estuda a criação de sistemas capazes<br>
