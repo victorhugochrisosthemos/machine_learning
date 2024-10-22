@@ -10,6 +10,13 @@ desenvolvimento de algoritmos que aprendem com dados históricos divididos entre
 classe. Nesse treinamento para conseguir predizer futuramente qual será a respostapara um cenário, um<br>
 algoritmo de Machine Learning se baseia em dados previsores para definir sozinho qual será o atributo classe.<br>
 
+## Conceitos Utilizados
+
+- CLASSE POSITIVA: Proporção de resultados corretamente classificados como positivo no modelo
+- ACURÁCIA: indica a precisão de uma classificação
+- PRECISÃO: mede a classificação da classe positiva, o quão correta foi
+- RECALL: identifica das classes positivas a quantidade de acerto dessas classificações
+
 ## Técnicas estudadas
 - [Pré-Processamento de Dados](https://github.com/victorhugochrisosthemos/pre_processamento_de_dados)
 - [Algoritmo Naive Bayes](https://github.com/victorhugochrisosthemos/algoritmo_naive_bayes)
