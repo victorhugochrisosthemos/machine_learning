@@ -19,6 +19,7 @@ algoritmo de Machine Learning se baseia em dados previsores para definir sozinho
 - [Algoritmo Naive Bayes](https://github.com/victorhugochrisosthemos/algoritmo_naive_bayes)
 - [Aprendizado por Árvore de Decisão & Random Forest](https://github.com/victorhugochrisosthemos/machine_learning/tree/main/arvores_de_decisao)
 - [Aprendizagem por Regra](https://github.com/victorhugochrisosthemos/machine_learning/tree/main/aprendizagem_por_regra)
+- [Aprendizagem Baseada em instâncias](https://github.com/victorhugochrisosthemos/machine_learning/tree/main/KNN)
 
 
 ![1694843206845](https://github.com/user-attachments/assets/fad4c277-fc21-428a-91c5-f4487868ea4a)
