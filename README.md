@@ -7,6 +7,18 @@ desenvolvimento de algoritmos que aprendem com dados históricos divididos entre
 classe. Nesse treinamento para conseguir predizer futuramente qual será a respostapara um cenário, um<br>
 algoritmo de Machine Learning se baseia em dados previsores para definir sozinho qual será o atributo classe.<br>
 
+## Métodos
+- O Aprendizado de Máquina pode utilizar dois métodos diferentes:
+  - Preditivos
+    - Classificação
+    - Regressão
+  - Descritivos
+    - Associação
+    - Agrupamento
+    - Detecção de desvios
+    - Padrões sequenciais
+    - Sumarização
+
 ## Conceitos Utilizados
 
 - CLASSE POSITIVA: Proporção de resultados corretamente classificados como positivo no modelo
