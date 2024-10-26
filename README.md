@@ -14,6 +14,8 @@ algoritmo de Machine Learning se baseia em dados previsores para definir sozinho
 - PRECISÃO: mede a classificação da classe positiva, o quão correta foi
 - RECALL: identifica das classes positivas a quantidade de acerto dessas classificações
 - Quando os valores categóricos ou numéricos estão em escalas diferentes, pode-se usar as técnicas de normalização e padronização para que os dados fiquem no mesmo padrão
+    - NORMALIZAÇÂO: Os valores são alterados para uma escala entre 0 e 1
+    - PADRONIZAÇÂO: Os dados são alterados levando em consideração a média e o desvio padrão
 
 ## Técnicas estudadas
 - [Pré-Processamento de Dados](https://github.com/victorhugochrisosthemos/pre_processamento_de_dados)
