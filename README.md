@@ -13,6 +13,7 @@ algoritmo de Machine Learning se baseia em dados previsores para definir sozinho
 - ACURÁCIA: indica a precisão de uma classificação
 - PRECISÃO: mede a classificação da classe positiva, o quão correta foi
 - RECALL: identifica das classes positivas a quantidade de acerto dessas classificações
+- Quando os valores categóricos ou numéricos estão em escalas diferentes, pode-se usar as técnicas de normalização e padronização para que os dados fiquem no mesmo padrão
 
 ## Técnicas estudadas
 - [Pré-Processamento de Dados](https://github.com/victorhugochrisosthemos/pre_processamento_de_dados)
