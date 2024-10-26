@@ -10,8 +10,8 @@ algoritmo de Machine Learning se baseia em dados previsores para definir sozinho
 ## Métodos
 - O Aprendizado de Máquina pode utilizar dois métodos diferentes:
   - Preditivos
-    - Classificação
-    - Regressão
+    - Classificação (prevê rótulos)
+    - Regressão (prevê números)
   - Descritivos
     - Associação
     - Agrupamento
