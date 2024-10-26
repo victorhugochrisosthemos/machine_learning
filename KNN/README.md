@@ -14,7 +14,7 @@
     - Poucos vizinhos: cuidado com ruídos e outliers
     - Muitos vizinhos: cuidado com oferfitting
  
-# Overfitting
+# Cuidado com o overfitting
 - Situação que ocorre quando o aprendizado se torna tão específico aos dados de treinamento que não consegue reconhecer corretamente padrões em novos dados que não sejam exatamente iguais aos que ele aprendeu
 - Sinais dessa anomalia:
   - Alta precisão no conjunto de treinamento (excessivamente ajustado aos dados treinados)
