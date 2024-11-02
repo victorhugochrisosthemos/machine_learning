@@ -36,5 +36,10 @@ algoritmo de Machine Learning se baseia em dados previsores para definir sozinho
 - [Aprendizagem por Regra](https://github.com/victorhugochrisosthemos/machine_learning/tree/main/aprendizagem_por_regra)
 - [Aprendizagem Baseada em instâncias](https://github.com/victorhugochrisosthemos/machine_learning/tree/main/KNN)
 
+## Paralelismo com IA
+- O paralelismo é uma técnica para melhorar o desempenho de algoritmos e, consequentemente, aumenta a aceleração de tarefas intensivas
+- Fiz alguns testes de desempenho usando parâmetros que valorizam o processamento de task com o paralelismo, segue os testes:
+  - [Paralelismo e Random Forest](https://github.com/victorhugochrisosthemos/machine_learning/tree/main/Paralelismo)
+
 
 ![1694843206845](https://github.com/user-attachments/assets/fad4c277-fc21-428a-91c5-f4487868ea4a)
