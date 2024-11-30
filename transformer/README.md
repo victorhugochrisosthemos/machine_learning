@@ -39,7 +39,10 @@ sentido para o modelo
 - Decodificação: depois desse sistema processar as informações, ele transforma 
 os números em palavras novamente da saída do modelo
 
-## Componentes do modelo
+![image](https://github.com/user-attachments/assets/2301aa55-252e-4f29-84db-66b80333dbfe)
+
+
+### Componentes do modelo
 
 - Input Embedding: transforma os tokens em vetores
 - Positional Encoding: agrega valores numéricos aos tokens sobre a sequência das palavras
@@ -59,3 +62,6 @@ os números em palavras novamente da saída do modelo
 - Não são excludentes, uma é a melhoria da outra e são aplicadas juntas
 
 ![image](https://github.com/user-attachments/assets/0eefe9a4-249e-4d33-99f2-0c0de62560b5)
+
+![image](https://github.com/user-attachments/assets/0f13a730-538c-4f04-8186-965f8e035eaa)
+
