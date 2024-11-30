@@ -65,3 +65,4 @@ os números em palavras novamente da saída do modelo
 
 ![image](https://github.com/user-attachments/assets/0f13a730-538c-4f04-8186-965f8e035eaa)
 
+[Link do artigo](https://proceedings.neurips.cc/paper_files/paper/2017/file/3f5ee243547dee91fbd053c1c4a845aa-Paper.pdf)
