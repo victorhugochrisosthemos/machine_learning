@@ -9,7 +9,7 @@ dedicado para aplicações gerais, já o R1 é destinado para a resolução de p
 o qual utiliza aprendizado por reforço  para aprimoramento do raciocínio
 - Desde quando existe o deepseek? Quem é?
 - Existe benchmarks para avaliar desempenho de IA
-- No github do [[DeepSeek-V3](https://github.com/deepseek-ai/DeepSeek-V3/blob/main/DeepSeek_V3.pdf](https://github.com/deepseek-ai/DeepSeek-V3/tree/main)) é possível encontrar informações sobre análises de benchmark de diferentes modelos,<br>
+- No github do [DeepSeek-V3](https://github.com/deepseek-ai/DeepSeek-V3/blob/main/DeepSeek_V3.pdf](https://github.com/deepseek-ai/DeepSeek-V3/tree/main)) é possível encontrar informações sobre análises de benchmark de diferentes modelos,<br>
 demonstrando que o poder de processamento do modelo DeepSeek-V3 é superior do que o modelo GPT-4o (disponível gratuitamente) em testes de problemas matemáticos (MATH 500),<br>
 olimpíada de matemática (AIME 2024) e competição de programação (Codeforces)<br>
 - O que tem no DeepSeek-V3? No que esses elementos auxiliam a uma melhor performance?
