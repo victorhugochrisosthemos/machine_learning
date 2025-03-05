@@ -28,22 +28,16 @@ de manter coerência no processamento de linguagem natural não precisa ser
 sequencial como em modelos de redes neurais concorrente e convolucionais, 
 valorizando o processamento paralelo e aumentando a eficiência.<br>
 
-## Conceitos  da arquitetura
-
-- Token: porções do texto, sendo o token de finalização (<EOS>) o 
-marco de final de uma frase
-
-- Codificação: transforma as palavras de entrada em números que fazem 
-sentido para o modelo
-
-- Decodificação: depois desse sistema processar as informações, ele transforma 
-os números em palavras novamente da saída do modelo
+## Conceitos e componentes da arquitetura
 
 ![image](https://github.com/user-attachments/assets/2301aa55-252e-4f29-84db-66b80333dbfe)
 
-
-### Componentes do modelo
-
+- Token: porções do texto, sendo o token de finalização (<EOS>) o 
+marco de final de uma frase
+- Codificação: transforma as palavras de entrada em números que fazem 
+sentido para o modelo
+- Decodificação: depois desse sistema processar as informações, ele transforma 
+os números em palavras novamente da saída do modelo
 - Input Embedding: transforma os tokens em vetores
 - Positional Encoding: agrega valores numéricos aos tokens sobre a sequência das palavras
 - Multi-Head Attention: atenção sobre a contextualização e relação entre os tokens na frase
