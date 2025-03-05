@@ -32,22 +32,22 @@ valorizando o processamento paralelo e aumentando a eficiência.<br>
 
 ![image](https://github.com/user-attachments/assets/2301aa55-252e-4f29-84db-66b80333dbfe)
 
-- Token: porções do texto, sendo o token de finalização (<EOS>) o 
+- **Token:** porções do texto, sendo o token de finalização **<EOS>** o 
 marco de final de uma frase
-- Codificação: transforma as palavras de entrada em números que fazem 
+- **Codificação:** transforma as palavras de entrada em números que fazem 
 sentido para o modelo
-- Decodificação: depois desse sistema processar as informações, ele transforma 
+- **Decodificação:** depois desse sistema processar as informações, ele transforma 
 os números em palavras novamente da saída do modelo
-- Input Embedding: transforma os tokens em vetores
-- Positional Encoding: agrega valores numéricos aos tokens sobre a sequência das palavras
-- Multi-Head Attention: atenção sobre a contextualização e relação entre os tokens na frase
-- Add & Norm: gera o processo de normalização e também cria conexão residual (permite que a entrada de uma camada seja adicionada diretamente à sua saída)
-- Feed Forward: agrega valores aos tokens sobre padrões mais complexos entre eles
-- Linear: faz multiplicação matricial dos dados de entrada com a adição de um vetor de deslocamento (bias)
-- Output Embedding: transforma os números processados pelo modelo em palavras novamente
-- Masked Multi-Head Attention: faz um mascaramento dos tokens futuros para ser basear em tokens passados
-- Softmax: calcula a probabilidade de qual será o próximo token a ser gerado
-- Output probabilities: probabilidades geradas de possíveis tokens futuros
+- **Input Embedding:** transforma os tokens em vetores
+- **Positional Encoding:** agrega valores numéricos aos tokens sobre a sequência das palavras
+- **Multi-Head Attention:** atenção sobre a contextualização e relação entre os tokens na frase
+- **Add & Norm:** gera o processo de normalização e também cria conexão residual (permite que a entrada de uma camada seja adicionada diretamente à sua saída)
+- **Feed Forward:** agrega valores aos tokens sobre padrões mais complexos entre eles
+- **Linear:** faz multiplicação matricial dos dados de entrada com a adição de um vetor de deslocamento (bias)
+- **Output Embedding:** transforma os números processados pelo modelo em palavras novamente
+- **Masked Multi-Head Attention:** faz um mascaramento dos tokens futuros para ser basear em tokens passados
+- **Softmax:** calcula a probabilidade de qual será o próximo token a ser gerado
+- **Output probabilities:** probabilidades geradas de possíveis tokens futuros
 
 
 ## Scaled Dot-Product Attention e Multi-Head Attention
