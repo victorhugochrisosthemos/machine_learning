@@ -32,7 +32,7 @@ valorizando o processamento paralelo e aumentando a eficiência.<br>
 
 ![image](https://github.com/user-attachments/assets/2301aa55-252e-4f29-84db-66b80333dbfe)
 
-- **Token:** porções do texto, sendo o token de finalização **<EOS>** o 
+- **Token:** porções do texto, sendo o token de finalização **End Of Sequence** o 
 marco de final de uma frase
 - **Codificação:** transforma as palavras de entrada em números que fazem 
 sentido para o modelo
